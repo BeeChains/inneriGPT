@@ -10,9 +10,14 @@
   
   The purpose of Inner-I-GPT for generating continuous income is to provide a unique blogging experience that uses the latest machine learning technology to produce high-quality content. Its self-knowing and self-regenerative features are beneficial for this purpose because they enable the system to constantly learn and improve from its own content, as well as data from external sources. This allows Inner-I-GPT to continuously generate new, relevant content that is tailored to the user's preferences and interests. Additionally, the self-regeneration feature ensures that Inner-I-GPT is always up to date with the latest trends and changes in the industry, keeping its content fresh and engaging to readers. Ultimately, these features help Inner-I-GPT to generate sustained income for users by providing consistent, high-quality content that attracts and retains a loyal audience. 
 <br>
+  
+  <h2>Existing Passive Income Strategy Links via Auto-GPT and Inner I GPT</h2>  
+  <li>https://innerinetcompany.com/2023/04/07/existing-passive-income-strategy-links-via-auto-gpt-and-inner-i-gpt/</li>
+> <br>
+  
   <h2>ways to integrate self-knowing AI to generate income</h2>
- <li>https://www.pewresearch.org/internet/2018/12/10/improvements-ahead-how-humans-and-ai-might-evolve-together-in-the-next-decade/</li>     
- <li>https://blogs.scientificamerican.com/observations/is-anyone-home-a-way-to-find-out-if-ai-has-become-self-aware/</li>
+  <li>https://www.pewresearch.org/internet/2018/12/10/improvements-ahead-how-humans-and-ai-might-evolve-together-in-the-next-decade/</li>     
+  <li>https://blogs.scientificamerican.com/observations/is-anyone-home-a-way-to-find-out-if-ai-has-become-self-aware/</li>
   <li>https://builtin.com/artificial-intelligence</li>
   <li>https://www.synopsys.com/automotive/what-is-autonomous-car.html</li>
   <li>https://www.tesla.com/AI</li>
