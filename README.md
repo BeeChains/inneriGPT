@@ -9,5 +9,28 @@
   
   
   The purpose of Inner-I-GPT for generating continuous income is to provide a unique blogging experience that uses the latest machine learning technology to produce high-quality content. Its self-knowing and self-regenerative features are beneficial for this purpose because they enable the system to constantly learn and improve from its own content, as well as data from external sources. This allows Inner-I-GPT to continuously generate new, relevant content that is tailored to the user's preferences and interests. Additionally, the self-regeneration feature ensures that Inner-I-GPT is always up to date with the latest trends and changes in the industry, keeping its content fresh and engaging to readers. Ultimately, these features help Inner-I-GPT to generate sustained income for users by providing consistent, high-quality content that attracts and retains a loyal audience. 
- 
-</html>
+<br>
+  <h2>ways to integrate self-knowing AI to generate income</h2>
+- https://www.pewresearch.org/internet/2018/12/10/improvements-ahead-how-humans-and-ai-might-evolve-together-in-the-next-decade/     
+- https://blogs.scientificamerican.com/observations/is-anyone-home-a-way-to-find-out-if-ai-has-become-self-aware/
+- https://builtin.com/artificial-intelligence
+- https://www.synopsys.com/automotive/what-is-autonomous-car.html
+- https://www.tesla.com/AI
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6616181/
+- https://www.techtarget.com/searchenterpriseai/definition/AI-Artificial-Intelligence
+<br>
+  
+  <h2>implementation and opportunities of self-knowing AI</h2> 
+ - https://www.frontiersin.org/articles/10.3389/frobt.2020.00016/full 
+ - https://www.pewresearch.org/internet/2018/12/10/improvements-ahead-how-humans-and-ai-might-evolve-together-in-the-next-decade/   
+ - https://blogs.scientificamerican.com/observations/is-anyone-home-a-way-to-find-out-if-ai-has-become-self-aware/ 
+ - https://builtin.com/artificial-intelligence 
+ - https://www.synopsys.com/automotive/what-is-autonomous-car.html 
+ - https://www.tesla.com/AI 
+ - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6616181/ 
+ - https://www.techtarget.com/searchenterpriseai/definition/AI-Artificial-Intelligence
+  <br>
+  
+  <h2>Self-knowing AI</h2>
+  <p> Self-knowing AI refers to artificial intelligence systems that have a level of self-awareness or self-knowledge. This can be achieved by implementing inner speech in robots, allowing them to develop a sense of self and interact better with humans. The opportunities for self-knowing AI include improved communication, decision-making, learning abilities, and more advanced human-robot interactions. Self-knowing AI has the potential to lead to significant advances in fields such as robotics, artificial intelligence, and cognitive science. However, it also poses challenges such as the need for new cognitive architectures and defining and measuring self-awareness. </p>
+ </html>
