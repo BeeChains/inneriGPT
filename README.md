@@ -13,7 +13,7 @@
   
   <h2>Existing Passive Income Strategy Links via Auto-GPT and Inner I GPT</h2>  
   <li>https://innerinetcompany.com/2023/04/07/existing-passive-income-strategy-links-via-auto-gpt-and-inner-i-gpt/</li>
-> <br>
+  <br>
   
   <h2>ways to integrate self-knowing AI to generate income</h2>
   <li>https://www.pewresearch.org/internet/2018/12/10/improvements-ahead-how-humans-and-ai-might-evolve-together-in-the-next-decade/</li>     
