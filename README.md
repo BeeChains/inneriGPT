@@ -94,15 +94,15 @@ PLAN:
   <h2>These steps can be used to guide the code generation process using Auto-GPT</h2>
   To generate the code for an autonomous business using Auto-GPT, we would need to provide a set of instructions or a template that the AI can use to generate the code. Here's one possible set of instructions for generating an autonomous business using Auto-GPT: 
   <ol>
-    1. Define the business case and objectives. 
-    2. Determine the target audience and customer persona for the business. 
-    3. Identify the key user flows and features required for the business. 
-    4. Develop a data schema and API specification for the required data objects and services. 
-    5. Implement the business logic using Python and Flask web framework. 
-    6. Integrate the GPT-3.5 API into the application backend to assist with content generation and decision-making. 
-    7. Develop a front-end user interface for the application using React JavaScript library. 
-    8. Deploy the application to a cloud hosting platform like Heroku. 
-    9. Test the application and refine as necessary. 
+    <li>Define the business case and objectives.</li> 
+    <li>Determine the target audience and customer persona for the business.</li> 
+    <li>Identify the key user flows and features required for the business.</li> 
+    <li>Develop a data schema and API specification for the required data objects and services.</li> 
+    <li>Implement the business logic using Python and Flask web framework.</li> 
+    <li>Integrate the GPT-3.5 API into the application backend to assist with content generation and decision-making.</li> 
+    <li>Develop a front-end user interface for the application using React JavaScript library.</li> 
+    <li>Deploy the application to a cloud hosting platform like Heroku.</li> 
+    <li>Test the application and refine as necessary. 
   </ol>
  <ul>
 -  Create a skeleton web application for the autonomous business.
