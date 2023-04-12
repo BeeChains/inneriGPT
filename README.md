@@ -117,7 +117,7 @@ PLAN:
 -  Verify that the code is functioning as expected by executing the unit tests.
  </ul>
  <br>
- <h2>Commands</h2>
+ <h2>Commands list reference</h2>
  <li>COMMAND = start_agent ARGUMENTS = {'name': 'Auto-GPT-idea-generator', 'task': 'Generate income-generating ideas using Auto-GPT', 'prompt': 'Brainstorm a list of ten ideas for generating income using Auto-GPT.'}</li>
  <li> NEXT ACTION:  COMMAND = google ARGUMENTS = {'input': 'self-generative income opportunities'}</li>
  <li>COMMAND = write_tests ARGUMENTS = {'code': "def test_inner_i_network_trello_integration():\n # arrange\n platform = InnerINetwork()\n trello_key = 'INSERT TRELLO KEY HERE'\n trello_token = 'INSERT TRELLO TOKEN HERE'\n # act\n platform.connect_to_trello(trello_key, trello_token)\n # assert\n assert platform.is_connected_to_trello() == True\n assert platform.get_trello_boards() != None\n", 'focus': ['InnerIdeaGenAgent', 'Trello Integration']}</li>
