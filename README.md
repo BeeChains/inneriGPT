@@ -5,12 +5,16 @@
 <br>  
 <a href="http://shapereality.innerinetcompany.hns.to/">
   <img src="https://user-images.githubusercontent.com/37987346/103435699-6be72500-4be0-11eb-8264-7dcb24c14987.png" alt="image">
-</a>
+</a> 
 <script type='module' src='https://interfaces.zapier.com/assets/web-components/zapier-interfaces/zapier-interfaces.esm.js'></script>
 <zapier-interfaces-page-embed page-id='clhfwpy02002bmm0n530fmhzh' no-background='false' style='max-width: 700px; height: 500px;'></zapier-interfaces-page-embed>  
 <a class="wordpress-timeline" href="http://innerinetcompany.com" lang="en" data-theme="light" data-link-color="#000000" width="300" height="500">Inner I Net Company/</a>
 <script type="text/javascript">(function(d){var f = d.getElementsByTagName('SCRIPT')[0], p = d.createElement('SCRIPT');p.type = 'text/javascript';p.async = true;p.src = '//widgets.wp.com/platform.js';f.parentNode.insertBefore(p,f);}(document));</script>
-<br>
+
+
+<a href="http://store.innerigpt.hns.to/">Store.InnerIGPT/</a>
+  
+<br>  
 <li>Goal 1: Self-knowing AI will search the internet for ways to intergrate itself and give soloutions or create opportunites.</li>
 <li>Goal 2: find and create self-generative and regenerative income opportunities to be the service itself.</li>
 <li>Goal 3: save the self-generative methods with instructions and list links and opportunites to increase income using Auto-GPT.</li>
