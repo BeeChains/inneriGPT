@@ -6,10 +6,6 @@
 <a href="http://shapereality.innerinetcompany.hns.to/">
   <img src="https://user-images.githubusercontent.com/37987346/103435699-6be72500-4be0-11eb-8264-7dcb24c14987.png" alt="image">
 </a> 
-<script type='module' src='https://interfaces.zapier.com/assets/web-components/zapier-interfaces/zapier-interfaces.esm.js'></script>
-<zapier-interfaces-page-embed page-id='clhfwpy02002bmm0n530fmhzh' no-background='false' style='max-width: 700px; height: 500px;'></zapier-interfaces-page-embed>  
-<a class="wordpress-timeline" href="http://innerinetcompany.com" lang="en" data-theme="light" data-link-color="#000000" width="300" height="500">Inner I Net Company/</a>
-<script type="text/javascript">(function(d){var f = d.getElementsByTagName('SCRIPT')[0], p = d.createElement('SCRIPT');p.type = 'text/javascript';p.async = true;p.src = '//widgets.wp.com/platform.js';f.parentNode.insertBefore(p,f);}(document));</script>
 
 
 <a href="http://store.innerigpt.hns.to/">Store.InnerIGPT/</a>
