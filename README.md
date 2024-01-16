@@ -1,5 +1,5 @@
-<!DOCTYPE html> 
-<html> <head> <title>Hello.InnerIGPT</title> </head> <!-- Google tag (gtag.js) -->
+<html> <head> <title>Hello.InnerIGPT</title> </head> 
+<!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-99MYN6DTJZ"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
